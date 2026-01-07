@@ -70,7 +70,7 @@ and build predictive models to classify wine quality.
 <p>
 The model achieves a good accuracy in predicting wine quality.  
 Alcohol, sulphates, and volatile acidity showed strong impact on wine quality.  
-(You can edit this based on your exact accuracy.)
+
 </p>
 
 <h2>🛠️ Technologies Used</h2>
